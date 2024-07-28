@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+html,body{
+    width: 100%;
+    height:100%;
+    background-color: rgb(52, 41, 26);
+}
+div h2{
+    text-align: center;
+    color: aliceblue;
+    /* margin-top: 12px; */
+    font-size: 34px;
+    text-shadow: 2cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    border: 2px solid white;
+    width: 800px;
+    margin: auto;
+    position: relative;
+  
+    top: 20px;
+    padding: 8px;
+    border-radius: 12px;
+    background-color: rgb(0, 0, 0);
+}
+#map{
+    margin-top: 40px;
+    width: 100%;
+    height: 100%;
+}
